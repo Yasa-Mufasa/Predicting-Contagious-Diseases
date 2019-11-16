@@ -29,3 +29,5 @@ This project was designed and implemented by Josh Gardner.
 # Project Status
 
 This project's analysis is complete.
+
+# [Return Home](https://yasa-mufasa.github.io/Josh-Gardner.github.io/)
