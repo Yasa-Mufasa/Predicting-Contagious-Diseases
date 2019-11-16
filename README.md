@@ -1,5 +1,5 @@
 # Predicting Contagious Diseases
-(insert image here)
+![diseases](diseases.jpg)
 
 # Programming Language
 
